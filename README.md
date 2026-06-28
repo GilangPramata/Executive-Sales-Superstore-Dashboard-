@@ -1,4 +1,4 @@
-# Portfolio 1 — Executive Sales Dashboard
+# Executive Sales Dashboard
 
 An end-to-end sales analytics project that a CEO or Sales Director can use to monitor
 the performance of **Superstore** US retail sales (2015–2018).
